@@ -1,3 +1,7 @@
 # School_Projects
 
-School related labs and personal projects
+Mainly coding related stuff here
+
+By
+
+Matias "Madidas" Turunen
