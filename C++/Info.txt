@@ -1,4 +1,4 @@
 Here are infos about my working stuff
 
 Some C++ task belongs to this file
-Aso some robotics related projects lay here
+Also some robotics related projects lay here
